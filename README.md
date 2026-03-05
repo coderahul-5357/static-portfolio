@@ -161,12 +161,11 @@ npm run build
 
 This project is open source and available under the MIT License.
 
-## ✨ Acknowledgments
+## ✨ Author
 
 - Created with ❤️ by Endla Rahul
-- Inspired by modern web design trends
-- Special thanks to all open-source projects used
+- Builder of models and ideas
+- AI ML Enthusiast
 
----
 
 **Last Updated**: March 6, 2026
