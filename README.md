@@ -152,10 +152,9 @@ npm run build
 
 ## 📬 Contact
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- Email: mr.endlarahul@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rahulendla/
+- GitHub: [@coderahul-5357](https://github.com/coderahul-5357)
 
 ## 📄 License
 
