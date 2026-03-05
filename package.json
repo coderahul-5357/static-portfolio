@@ -1,0 +1,31 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Landing Page for Endla Rahul",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "portfolio",
+    "react",
+    "landing-page"
+  ],
+  "author": "Endla Rahul",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.4",
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.1",
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.2.1",
+    "framer-motion": "^12.35.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
